@@ -8,7 +8,8 @@ jobs:
       - checkout
       # Download and cache dependencies
       - restore_cache:
-          keys: [- v1-dependencies-{{ checksum "requirements.txt" }}]
+          keys: 
+            - v1-dependencies-{{ checksum "requirements.txt" }}
       - run:
           name: install dependencies
           command: |
