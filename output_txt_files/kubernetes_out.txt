@@ -1,3 +1,6 @@
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+
 {
     "prediction": [
         20.35373177134412
