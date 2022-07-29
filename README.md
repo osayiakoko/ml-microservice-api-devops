@@ -74,4 +74,4 @@ minikube start
 
 hello@osayistreams.com
 
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![osayiakoko](https://circleci.com/gh/osayiakoko/ml-microservice-api-devops.svg?style=svg)](https://circleci.com/gh/osayiakoko/ml-microservice-api-devops)
